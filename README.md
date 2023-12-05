@@ -1,0 +1,2 @@
+# JornadaTechAI
+Jornada Tech EBAC
